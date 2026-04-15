@@ -18,6 +18,8 @@ nav a {
     text-decoration: none;
 }
 
+a {}
+
 nav a:hover {
     color: yellow;
 }
